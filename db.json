@@ -1,6 +1,13 @@
 {
-  "userId": 1,
-  "id": 1,
-  "title": "sunt aut facere repellat provident occaecati excepturi optio reprehenderit",
-  "body": "quia et suscipit\nsuscipit recusandae consequuntur expedita et cum\nreprehenderit molestiae ut ut quas totam\nnostrum rerum est autem sunt rem eveniet architecto"
+  "posts": [
+    {
+      "userId": 5,
+      "id": 10000,
+      "title": "aqui pueden ir los numeros separados por coma, asi cada atributo solo correspondera a un sorteo, y puedo considerar solo los ultimo 5 sorteos",
+      "body": "y se puede editar desde el webhots XD"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
 }
